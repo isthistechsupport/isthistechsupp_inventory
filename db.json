@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "title": "Hello",
+      "price": 100,
+      "id": "1006a141-1354-4dd4-9819-77d1ca2ad1fa"
+    },
+    {
+      "title": "Hey",
+      "price": 27,
+      "id": "f8aa6725-d4a8-4d54-aace-2222528b2d9e",
+      "count": 4
+    },
+    {
+      "title": "What's your name?",
+      "price": 234,
+      "id": "058c2aa0-0875-4e27-95c3-506a829410b0"
+    }
+  ],
+  "user": {},
+  "counter": 0
+}
